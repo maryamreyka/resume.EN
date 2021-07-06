@@ -14,7 +14,6 @@ I am studying computer engineering at PNU Shahriyar University.
 
 ### Skills
 
-
 + c
 
 + c++

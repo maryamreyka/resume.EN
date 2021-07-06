@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/87013186?s=400&u=c5e5b2292d53c4a4481316b4ca62e8cf875b7813&v=4"/>
+### About Me
 
-You can use the [editor on GitHub](https://github.com/maryamreyka/resume.EN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Maryam Rey Ka
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am studying computer engineering at PNU Shahriyar University.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: Maryam
+- Last Name: Rey Ka
+- Birth Date: 1996/12/30
+- Marriage Status: Single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
++c
 
-1. Numbered
-2. List
++c++
 
-**Bold** and _Italic_ and `Code` text
++ HTML
 
-[Link](url) and ![Image](src)
-```
++ ICDL1
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Interests
+- Sports
+- Travel
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maryamreyka/resume.EN/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Languages
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Persian(Advanced)
+
+- English(Normal)
+
+### Work experiences
+
+- I worked two years at the center of my consult and consult on an advertising agency .
+
+### Other Accounts
+-Gmail: Maryam.reykaa@gmail.com
+
+
+  Persian Resume: <a href="https://maryamreyka.github.io/resume.FA/"> Resume </a>
